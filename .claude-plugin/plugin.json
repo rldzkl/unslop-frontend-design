@@ -1,0 +1,9 @@
+{
+  "name": "unslop-frontend-design",
+  "description": "Build, redesign, and polish UI with design tokens and concrete checks for generic AI design patterns.",
+  "author": {
+    "name": "rldzkl"
+  },
+  "repository": "https://github.com/rldzkl/unslop-frontend-design",
+  "license": "Apache-2.0"
+}

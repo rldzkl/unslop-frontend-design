@@ -1,0 +1,13 @@
+{
+  "name": "unslop-frontend-design",
+  "description": "Build, redesign, and polish UI with design tokens and concrete checks for generic AI design patterns.",
+  "owner": {
+    "name": "rldzkl"
+  },
+  "plugins": [
+    {
+      "name": "unslop-frontend-design",
+      "source": "./"
+    }
+  ]
+}
