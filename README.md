@@ -28,6 +28,9 @@ The rules in [SKILL.md](skills/unslop-frontend-design/SKILL.md) and [COPY.md](sk
 - Consistent icon families, stroke weights, and sizes; optical alignment for icons and shapes.
 - Balanced headings, readable prose wrapping, and fixes for awkward line breaks.
 - Tabular numerals for changing numbers and aligned columns.
+- Native `<dialog>` and `popover` for overlays instead of hand-built modal divs.
+- `svh` and `dvh` instead of `100vh` for full-height layouts on mobile.
+- IME-safe Enter-to-submit: custom Enter handlers skip while `event.isComposing` is true.
 - Loading, empty, and error states; skeletons that match the final layout and pending buttons for async work.
 - Visible confirmation after actions, consistent action names, and errors that explain how to recover.
 - Mobile layouts, visible keyboard focus, and respect for reduced motion.
